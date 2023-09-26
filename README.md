@@ -1,6 +1,6 @@
 # Language-to-Logical-Form-JULIA
 
-Paper: [Language to Logical Form with Neural Attention by Li Dong, Mirella Lapata](https://arxiv.org/abs/1601.01280))
+Paper: [Language to Logical Form with Neural Attention by Li Dong, Mirella Lapata](https://arxiv.org/abs/1601.01280)
 
 This is the Julia implementation of the paper above.
 
