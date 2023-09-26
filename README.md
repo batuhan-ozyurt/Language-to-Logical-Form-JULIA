@@ -8,7 +8,7 @@ It implements the four methods mentioned in the paper: SEQ2SEQ, SEQ2SEQ with Att
 
 To run the code, open the notebook files and write the path to the training and test data.
 
-Dropout value should be set to 0.4 for the GEO and JOBS datasets and 03. for the ATIS dataset.
+Dropout value should be set to 0.4 for the GEO and JOBS datasets and 0.3 for the ATIS dataset.
 
 Datasets can be downloaded via the following links:
 
